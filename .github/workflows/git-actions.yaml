@@ -4,5 +4,5 @@ jobs:
   print-name:
     runs-on: ubuntu-latest
     steps: 
-      - name: print hello message
+      - name: hello message
         run: echo "hello gunjan!"
